@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "youtube-tts-datagen"
-version = "0.0.1"
+version = "0.0.2"
 description = "Extract s and generates TTS datasets from youtube videos"
 authors = [
     "Matt Flowers <mattmflowers28@gmail.com>",
