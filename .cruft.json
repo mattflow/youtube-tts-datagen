@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "4eecc9c4d27e3c9321438bc1fdaf717bec5eadf6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Matt Flowers",
+      "author_email": "mattmflowers28@gmail.com",
+      "github_username": "mattflow",
+      "project_name": "Youtube TTS Datagen",
+      "project_slug": "youtube-tts-datagen",
+      "package_name": "youtube_tts_datagen",
+      "project_short_description": "Extract s and generates TTS datasets from youtube videos",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
